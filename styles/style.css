@@ -276,7 +276,7 @@ ol {
   font-size: 30px;
   line-height: 100%;
   text-transform: uppercase;
-  max-width: 100%;
+  max-width: 200px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
